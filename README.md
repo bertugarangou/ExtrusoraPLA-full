@@ -1,4 +1,4 @@
-# Extrusora PLA
+# Extrusora PLA - full
 
 Extrusora de PLA controlada amb Arduino Mega 2560.
 
