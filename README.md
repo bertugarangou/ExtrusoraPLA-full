@@ -2,9 +2,7 @@
 
 Extrusora de PLA controlada amb Arduino Mega 2560.
 
-### Prerequisits
-En el cas que es vulgui construir:
-
+### Material
 És necessari el següent material en especial:
 * **Arduino Mega 2650 (REV3).** Original o rèplica.
 * **Extrusora muntada.** Tremuga, compartiment amb vis-sens-fi, boquilla, sistema de refrigeració i sistema de bobinatge.
