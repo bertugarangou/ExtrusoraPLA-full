@@ -20,9 +20,9 @@ Altres peces, les que estan en contacte amb zones calentes, estan fetes amb acer
 
 Alerta: els fitxers s'han d'obrir amb la versió 2019 per no tenir errors de visualització. Els fitxers ".dwg" s'han d'obrir amb Innventor millor que amb AutoCAD. Els programes d'Autodesk són de llicència gratuita educativa.
 
-##  Versions
 
-Es pot visitar l'historial de versions (changelog) [aquí](Changelog.md)
+
+
 
 ## Referències
 
@@ -45,6 +45,6 @@ Es pot visitar l'historial de versions (changelog) [aquí](Changelog.md)
 
 * *Tutor del Treball de Recerca* - **Jordi Fanals Oriol**
 
-## Contacte
 
-Podeu contactar-me al correu [albertgarangou@gmail.com](mailto:albertgarangou@gmail.com)
+
+
