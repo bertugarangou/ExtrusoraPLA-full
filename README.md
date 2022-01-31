@@ -37,9 +37,9 @@ Es pot visitar l'historial de versions (changelog) [aquí](Changelog.md)
 
 ## Llicència
 
-**Tots els drets reservats, Albert Garangou Culebras.**
 
-Podeu trobar una còpia de la llicència a [LICENSE.md](LICENSE.md) i més detalls.
+
+[LICENSE.md](LICENSE.md)
 
 ## Reconeixaments
 
