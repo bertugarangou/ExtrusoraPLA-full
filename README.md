@@ -1,5 +1,7 @@
 # Extrusora PLA - full
 
+![IMG-20180929-WA0008](https://user-images.githubusercontent.com/42043974/152827247-c2fd0c68-c111-4756-8025-f766151b44f8.jpeg)
+
 Extrusora de PLA controlada amb Arduino Mega 2560.
 
 ### Material
